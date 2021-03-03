@@ -1,7 +1,7 @@
 const pack = (prefix) => {
     return `*PACKS:*
     
-*𝓥𝓘𝓒𝓣𝓞𝓡 𝓝𝓞 𝓒𝓞𝓜𝓐𝓝𝓓𝓞 ⚜️🐊*
+*𝐾𝐼𝑅𝐼𝑇𝑂 𝐷𝑂𝑀𝐼𝑁𝐴 ⚜️🐊*
 
 Belle delphine : https://photos.app.goo.gl/Jr4Qk1dFSJepPdRc7 
 
