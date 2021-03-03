@@ -52,19 +52,19 @@ const { limit } = require('./database/menu/limit*/
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
-const BotName = '𝓑𝓞𝓣 𝓥𝓘𝓒𝓣𝓞𝓡'; 
-const instagram = 'https://www.instagram.com/gamerlagado/'; 
+const BotName = '𝐵𝑂𝑇 𝐷𝑂 𝐾𝐼𝑅𝐼𝑇𝑂'; 
+const instagram = 'https://www.instagram.com/@sadzkkkk_.'; 
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:𝓐𝓓𝓜 𝓥𝓘𝓒𝓣𝓞𝓡\n' // Nama kamu
-            + '𝓑𝓞𝓣 𝓥𝓘𝓒𝓣𝓞𝓡;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=5511987529572:+55 1195729572\n' //Nomor whatsapp kamu
+            + 'FN:ꪶ͢𝐷𝛯び𝑆↯𝐾𝐼𝑅𝐼𝑇𝛩𖤐⁩᭄\n' // Nama kamu
+            + '𝐵𝑂𝑇 𝐷𝑂 𝐾𝐼𝑅𝐼𝑇𝑂;\n' // Nama bot
+            + 'TEL;type=CELL;type=VOICE;waid=557381044096:+55 7381-0440-96\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 prefix = '#','!','.','*'
 blocked = []
 limitawal = '999999999'
-cr = '*𝓐𝓓𝓜 𝓥𝓘𝓒𝓣𝓞𝓡*'
+cr = '*𝐾𝐼𝑅𝐼𝑇𝑂*'
 
 /*********** LOAD FILE ***********/
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
@@ -199,7 +199,7 @@ async function starts() {
 	client.logger.level = 'warn'
 	console.log(banner.string)
 	client.on('qr', () => {
-		console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan the qr code above'))
+		console.log(color('[','white'), color('!','red'), color(']','white'), color(' escaneia e seja feliz'))
 	})
 
 	fs.existsSync('./BarBar.json') && client.loadAuthInfo('./BarBar.json')
@@ -289,22 +289,22 @@ async function starts() {
 				only: {
 					group: '[❗] Este comando só pode ser usado em grupos! ❌',
 					premium: '[❗] ESTE PEDIDO É SO PARA *USUÁRIOS PREMIUMS*',
-					mod: '[❗] ESTE PEDIDO É ESPECÍFICO PARA USUARIO MOD BOT VICTOR*',
+					mod: '[❗] ESTE PEDIDO É ESPECÍFICO PARA USUARIO MOD BOT KIRITO*',
 					benned: 'Você foi banido, por favor, contate o proprietário para saber mais',
-					ownerG: '[❗] ADM VICTOR? Este é um recurso especial para o ADM VICTOR ❌',
-					ownerB: '[❗] ADM VICTOR? Este é um recurso especial para o ADM VICTOR ❌',
-					userB: `──「 LISTA 」──\nOlá Kak !\nDesculpe, irmã. Você não está registrado como amigo de ADM VICTOR. Registre-se para fazer amizade com o bot ADM VICTOR por meio, \n\nCommand : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar VICTOR|15\n\n──「 𝓑𝓞𝓣 𝓥𝓘𝓒𝓣𝓞𝓡 」──`,
+					ownerG: '[❗] Kirito🙄👌? Este é um recurso especial para o gostosor do Kirito👌😏',
+					ownerB: '[❗] Kirito👌🙄? Este é um recurso especial para o gostosor do Kirito 👌😏',
+					userB: `──「 LISTA 」──\nOlá Kak !\nDesculpe, irmã. Você não está registrado como amigo do Kirito. Registre-se para fazer amizade com o bot kirito por meio, \n\nCommand : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar Kirito|15\n\n──「 𝐵𝑂𝑇 𝐷𝑂 𝐾𝐼𝑅𝐼𝑇𝑂 」──`,
 					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
 					Badmin: ' [❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
 				}
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["5511987529572@s.whatsapp.net"] // replace this with your number
-			const mod = [ownerNumber,"5511987529572@s.whatsapp.net"]//ubah nomor lo
-			const adminbotnumber = ["5511987529572@s.whatsapp.net"]//ubah nomor lo
-			const frendsowner = ["5511987529572@s.whatsapp.net"]//ubah nomor lo
-			const premium = ["5511987529572@s.whatsapp.net","5531991562881@s.whatsapp.net","558183066760@s.whatsapp.net","5513997836050@s.whatsapp.net","5511951772253@s.whatsapp.net","5515997648722@s.whatsapp.net","5515991031151@s.whatsapp.net","5511956854099@s.whatsapp.net","553898702611@s.whatsapp.net","5511995407637@s.whatsapp.net","5512996815604@s.whatsapp.net","558587524845@s.whatsapp.net","558592810834@s.whatsapp.net","5518991151675@s.whatsapp.net","5521973783067@s.whatsapp.net","5519987196273@s.whatsapp.net","5521991219578@s.whatsapp.net","5519981985831@s.whatsapp.net","5519982508615@s.whatsapp.net","5519987526431@s.whatsapp.net","556796508311@s.whatsapp.net","558599875723@s.whatsapp.net","5511977323653@s.whatsapp.net"]
+			const ownerNumber = ["557381044096@s.whatsapp.net"] // replace this with your number
+			const mod = [ownerNumber,"557381044096@s.whatsapp.net"]//ubah nomor lo
+			const adminbotnumber = ["557381044096@s.whatsapp.net"]//ubah nomor lo
+			const frendsowner = ["557381044096@s.whatsapp.net"]//ubah nomor lo
+			const premium = ["557381044096@s.whatsapp.net","557191467119@s.whatsapp.net","554792091566@s.whatsapp.net","556296638900@s.whatsapp.net","5511951772253@s.whatsapp.net","5515997648722@s.whatsapp.net","5515991031151@s.whatsapp.net","5511956854099@s.whatsapp.net","553898702611@s.whatsapp.net","5511995407637@s.whatsapp.net","5512996815604@s.whatsapp.net","558587524845@s.whatsapp.net","558592810834@s.whatsapp.net","5518991151675@s.whatsapp.net","5521973783067@s.whatsapp.net","5519987196273@s.whatsapp.net","5521991219578@s.whatsapp.net","5519981985831@s.whatsapp.net","5519982508615@s.whatsapp.net","5519987526431@s.whatsapp.net","556796508311@s.whatsapp.net","558599875723@s.whatsapp.net","5511977323653@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -355,7 +355,7 @@ async function starts() {
                 addLevelingXp(sender, amountXp)
                 if (requiredXp <= getLevelingXp(sender)) {
                     addLevelingLevel(sender, 1)
-                    await reply(`*「 LEVEL UP 」*\n\n➸ *Nome*: ${sender}\n➸ *XP*: ${getLevelingXp(sender)}\n➸ *Level*: ${getLevel} -> ${getLevelingLevel(sender)}\n\nParabéns!!  🎉🎉`)
+                    await reply(`*「 LEVEL UP 」*\n\n➸ *Nome*: ${sender}\n➸  *XP*: ${getLevelingXp(sender)}\n➸  *Level*: ${getLevel}   ->      ${getLevelingLevel(sender)}\n\nBOAAA👌`)
                 }
             } catch (err) {
                 console.error(err)
