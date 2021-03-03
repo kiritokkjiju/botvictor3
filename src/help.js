@@ -4,8 +4,8 @@ const help = (prefix) => {
 ║
 ╠ *𝓑𝓞𝓣 𝓥𝓘𝓒𝓣𝓞𝓡* 
 ╠😎 *3.0*
-╠😎 𝐃𝐎𝐍𝐎: 𝗩𝗜𝗖𝗧𝗢𝗥 
-╠😎 *wa.me/+5511987529572*
+╠😎 𝐃𝐎𝐍𝐎: ꪶ͢𝐷𝛯び𝑆↯𝐾𝐼𝑅𝐼𝑇𝛩 ☔ 
+╠😎 *wa.me/+5573981044096*
 ╠😎 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 𝐍𝐎𝐕𝐎𝐒 〙✪══
@@ -220,17 +220,17 @@ const help = (prefix) => {
 ║
 ╠══✪〘 𝓥𝓘𝓒𝓣𝓞𝓡 𝓝𝓞 𝓒𝓞𝓜𝓐𝓝𝓓𝓞 〙✪══
 ║
-║ *NOME: 𝓐𝓓𝓜 𝓥𝓘𝓒𝓣𝓞𝓡*
-║ *INSTA: https://www.instagram.com/gamerlagado/*
-║ *WPP: wa.me/+55119875295727*
-║ *YOUTUBE: https://www.youtube.com/channel/UC5XgXdQO1_T9ChVLgVAiI3A*
-║ *𝐒𝐇𝐈𝐓𝐏𝐎𝐒𝐓 𝐄𝐋𝐈𝐓𝐄⚜️: https://chat.whatsapp.com/Eedio1m9BcO6YpY8vDE2p7
+║ *NOME:ꪶ͢𝐷𝛯び𝑆↯𝐾𝐼𝑅𝐼𝑇𝛩 ☔*
+║ *INSTA: https://www.instagram.com/@sadzkkkk_.*
+║ *WPP: wa.me/+5573981044096*
+║ *YOUTUBE: 𝑇𝐸𝑀 𝑁 𝐾𝐾𝐾*
+║ *𝑂𝑃𝑂𝐻𝐴𝑅 𝐾𝐾𝐾𝐾𝐾 𝑆𝐸𝑀 𝐿𝐼𝑁𝐾 👺*
 ║  
 ║  *"CRINGE MORRE CEDO 🐊👑*
 ║  
 ║
 ║
-╚═〘 𝓑𝓞𝓣 𝓥𝓘𝓒𝓣𝓞𝓡 〙`
+╚═〘 𝐵𝑂𝑇 𝐷𝑂 𝐾𝐼𝑅𝐼𝑇𝑂 〙`
 }
 
 exports.help = help
