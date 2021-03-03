@@ -149,7 +149,7 @@ https://realsht.mobi/iJQbj
 • 100 Font Picsay/Pixelab
 https://realsht.mobi/hrTdE
 
-𝓥𝓘𝓒𝓣𝓞𝓡 𝓝𝓞 𝓒𝓞𝓜𝓐𝓝𝓓𝓞 ⚜️🐊
+𝐷𝐸𝑈𝑆 𝐾𝐼𝑅𝐼𝑇𝑂 𝑁𝑂 𝐶𝑂𝑀𝐴𝑁𝐷𝑂 𝑂𝑃𝑂𝐻𝐴𝑅 ⚜️🐊
 `
 }
 exports.modapk = modapk
